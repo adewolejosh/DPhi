@@ -1,0 +1,67 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="psycopg2" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="W605" />
+          <option value="E741" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="kechie.main.models.Product.objects" />
+          <option value="kechie.main.models.Order.orderitem_set" />
+          <option value="django.db.models.fields.related.ForeignKey.price" />
+          <option value="kechie.main.models.Order.objects" />
+          <option value="kechie.main.models.OrderItem.objects" />
+          <option value="Hestia_Backend.properties.models.Property.id" />
+          <option value="kechie.main.models.accounts" />
+          <option value="kechie.main.models.Cart.cartitem_set" />
+          <option value="kechie.main.models.Cart.*" />
+          <option value="django.db.models.fields.related.ForeignKey.*" />
+          <option value="Hestia_Backend.properties.models.Property.objects" />
+          <option value="couch.music.models.Artiste.id" />
+          <option value="couch.music.models.Album.id" />
+          <option value="couch.music.models.Song.id" />
+          <option value="joshyjosh.blog.models.Post.id" />
+          <option value="joshyjosh.blog.models.Post.objects" />
+          <option value="django_heroku" />
+          <option value="task.models.Information.objects" />
+          <option value="task.models.Year.objects" />
+          <option value="task.models.Company.objects" />
+          <option value="type.with_ui" />
+          <option value="type.without_ui" />
+          <option value="Bank.config.urls.v1" />
+          <option value="dict.append" />
+          <option value="gitted.kechie.main.models.Cart.objects" />
+          <option value="gitted.kechie.main.models.Product.objects" />
+          <option value="gitted.kechie.main.models.CartItem.objects" />
+          <option value="gitted.kechie.main.models.Cart.cartitem_set" />
+          <option value="gitted.kechie.cms.views.main" />
+          <option value="django.contrib.auth.models.User.DoesNotExist" />
+          <option value="socialMediaApi.posts.models.Post.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
