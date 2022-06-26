@@ -1,0 +1,8 @@
+
+accounts/migrations
+
+courses/migrations
+
+db.sqlite3
+
+.idea
